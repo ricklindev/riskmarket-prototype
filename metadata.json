@@ -1,0 +1,5 @@
+{
+  "name": "Risk Market",
+  "description": "A prediction market prototype focused on Web3 protocol risks, allowing users to trade on the likelihood of hacks and exploits.",
+  "requestFramePermissions": []
+}
